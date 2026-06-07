@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+data/raw_data/
+data/processed_data/
+*.nii
+*.nii.gz
+*.dcm
+*.zip
+.env
